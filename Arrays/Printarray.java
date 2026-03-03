@@ -1,4 +1,4 @@
-package javapatterns;
+package javapatterns.Arrays;
 import java.util.*;
 
 class Printarray
